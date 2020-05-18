@@ -1,4 +1,4 @@
-# student manegement project
+# student management system project
 1) manage students database .
 2) admin.
 3) students registration.
