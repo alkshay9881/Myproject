@@ -1,4 +1,4 @@
-# Myproject
+# jsp student managment project
 this is student managment system project 
 in which student can registor according to available branch and course 
 and admin can change data of student and all .
